@@ -6,35 +6,22 @@ The ESP32 connects to a Wi-Fi network, reads the RSSI value, and periodically up
 
 🔧 Hardware Requirements
 
-ESP32 Development Board
+1. ESP32 Development Board
 
-USB Cable
+2. USB Cable
 
-Wi-Fi Network
+3. Wi-Fi Network
 
-Laptop / PC
+4. Laptop / PC
 
 🧰 Software Requirements
 
-Arduino IDE (v2.0 or later recommended)
+1. Arduino IDE (v2.0 or later recommended)
 
-ESP32 Board Package (by Espressif)
+2. ESP32 Board Package (by Espressif)
 
-ThingSpeak Account
+3. ThingSpeak Account
 
-📡 ThingSpeak Setup
-
-Create a ThingSpeak account
-
-Create a new channel
-
-Enable Field 1
-
-Note down:
-
-Write API Key
-
-Channel visibility (Public or Private)
 
 📁 Project Structure
 ESP32-RSSI-ThingSpeak/
