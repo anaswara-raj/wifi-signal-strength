@@ -89,3 +89,10 @@ RSSI (signal strength in dBm) is read using WiFi.RSSI()
 RSSI value is sent to ThingSpeak using HTTP GET request
 
 ThingSpeak plots RSSI values as a graph
+
+output:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/974bf31c-2cb2-4cc2-b01a-dde1af78adfa" />
+
+
+
+
